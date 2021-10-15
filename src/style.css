@@ -4,6 +4,8 @@ h1, p {
 
 input {
   outline: 1px solid green;
+
+  letter-spacing: 3px;
 }
 
 .invalid {
