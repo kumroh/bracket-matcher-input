@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+
+input {
+  outline: 1px solid green;
+}
+
+.invalid {
+  height:10px;
+  width:200px;
+  outline: 1px solid red;
+}
